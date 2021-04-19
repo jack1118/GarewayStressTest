@@ -1,0 +1,580 @@
+2021-04-15 16:26:13,343 [1][INFO][35] ***************************************************
+2021-04-15 16:26:13,423 [1][INFO][36] Server Host Address: 127.0.0.1
+2021-04-15 16:26:13,424 [1][INFO][37] Server Port: 4100
+2021-04-15 16:26:13,424 [1][INFO][38] Server AE Title: VeriSee
+2021-04-15 16:26:13,424 [1][INFO][39] Client AE Title: StressTest
+2021-04-15 16:26:13,424 [1][INFO][40] Test count: 3
+2021-04-15 16:26:13,425 [1][INFO][41] Test interval: 30000
+2021-04-15 16:26:13,425 [1][INFO][42] Test thread: 2
+2021-04-15 16:26:13,425 [1][INFO][43] Test dicom: ./TestDicom/test.dcm
+2021-04-15 16:26:13,425 [1][INFO][44] ***************************************************
+2021-04-15 16:26:13,429 [1][INFO][86] Test [1]
+2021-04-15 16:26:18,218 [12][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:26:48,413 [16][INFO][86] Test [2]
+2021-04-15 16:26:50,382 [20][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:27:20,540 [20][INFO][86] Test [3]
+2021-04-15 16:27:22,739 [20][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:27:52,844 [20][INFO][115] ***************************************************
+2021-04-15 16:28:57,099 [1][INFO][35] ***************************************************
+2021-04-15 16:28:57,383 [1][INFO][36] Server Host Address: 127.0.0.1
+2021-04-15 16:28:57,386 [1][INFO][37] Server Port: 4100
+2021-04-15 16:28:57,387 [1][INFO][38] Server AE Title: VeriSee
+2021-04-15 16:28:57,389 [1][INFO][39] Client AE Title: StressTest
+2021-04-15 16:28:57,397 [1][INFO][40] Test count: 3
+2021-04-15 16:28:57,399 [1][INFO][41] Test interval: 30000
+2021-04-15 16:28:57,402 [1][INFO][42] Test thread: 2
+2021-04-15 16:28:57,404 [1][INFO][43] Test dicom: ./TestDicom/test.dcm
+2021-04-15 16:28:57,407 [1][INFO][44] ***************************************************
+2021-04-15 16:28:57,417 [1][INFO][86] Test [1]
+2021-04-15 16:29:03,584 [12][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:29:03,833 [8][INFO][86] Test [2]
+2021-04-15 16:29:08,369 [11][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:29:08,530 [11][INFO][86] Test [3]
+2021-04-15 16:29:10,805 [11][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:29:10,955 [9][INFO][118] ***************************************************
+2021-04-15 16:29:27,884 [1][INFO][35] ***************************************************
+2021-04-15 16:29:28,012 [1][INFO][36] Server Host Address: 127.0.0.1
+2021-04-15 16:29:28,013 [1][INFO][37] Server Port: 4100
+2021-04-15 16:29:28,015 [1][INFO][38] Server AE Title: VeriSee
+2021-04-15 16:29:28,019 [1][INFO][39] Client AE Title: StressTest
+2021-04-15 16:29:28,022 [1][INFO][40] Test count: 3
+2021-04-15 16:29:28,023 [1][INFO][41] Test interval: 30000
+2021-04-15 16:29:28,024 [1][INFO][42] Test thread: 2
+2021-04-15 16:29:28,025 [1][INFO][43] Test dicom: ./TestDicom/test.dcm
+2021-04-15 16:29:28,027 [1][INFO][44] ***************************************************
+2021-04-15 16:29:28,041 [1][INFO][86] Test [1]
+2021-04-15 16:29:32,129 [6][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:30:02,340 [13][INFO][86] Test [2]
+2021-04-15 16:30:05,277 [13][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:30:35,388 [13][INFO][86] Test [3]
+2021-04-15 16:30:38,473 [13][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:31:08,603 [13][INFO][118] ***************************************************
+2021-04-15 16:32:25,123 [1][INFO][35] ***************************************************
+2021-04-15 16:32:25,200 [1][INFO][36] Server Host Address: 127.0.0.1
+2021-04-15 16:32:25,200 [1][INFO][37] Server Port: 4100
+2021-04-15 16:32:25,200 [1][INFO][38] Server AE Title: VeriSee
+2021-04-15 16:32:25,200 [1][INFO][39] Client AE Title: StressTest
+2021-04-15 16:32:25,201 [1][INFO][40] Test count: 3
+2021-04-15 16:32:25,201 [1][INFO][41] Test interval: 30000
+2021-04-15 16:32:25,201 [1][INFO][42] Test thread: 2
+2021-04-15 16:32:25,201 [1][INFO][43] Test dicom: ./TestDicom/test.dcm
+2021-04-15 16:32:25,201 [1][INFO][44] ***************************************************
+2021-04-15 16:32:25,204 [1][INFO][86] Test [1]
+2021-04-15 16:32:29,552 [8][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:32:29,746 [3][INFO][86] Test [2]
+2021-04-15 16:32:34,348 [8][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:32:34,458 [16][INFO][86] Test [3]
+2021-04-15 16:32:38,039 [13][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:33:08,178 [14][INFO][118] ***************************************************
+2021-04-15 16:33:46,086 [1][INFO][35] ***************************************************
+2021-04-15 16:33:46,190 [1][INFO][36] Server Host Address: 127.0.0.1
+2021-04-15 16:33:46,193 [1][INFO][37] Server Port: 4100
+2021-04-15 16:33:46,194 [1][INFO][38] Server AE Title: VeriSee
+2021-04-15 16:33:46,194 [1][INFO][39] Client AE Title: StressTest
+2021-04-15 16:33:46,195 [1][INFO][40] Test count: 3
+2021-04-15 16:33:46,195 [1][INFO][41] Test interval: 30000
+2021-04-15 16:33:46,195 [1][INFO][42] Test thread: 2
+2021-04-15 16:33:46,196 [1][INFO][43] Test dicom: ./TestDicom/test.dcm
+2021-04-15 16:33:46,196 [1][INFO][44] ***************************************************
+2021-04-15 16:33:46,199 [1][INFO][86] Test [1]
+2021-04-15 16:33:50,262 [13][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:34:20,483 [16][INFO][86] Test [2]
+2021-04-15 16:34:22,690 [10][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:34:52,845 [16][INFO][86] Test [3]
+2021-04-15 16:34:56,924 [16][INFO][91] C-Store Response Received, Status: Success
+2021-04-15 16:34:57,117 [21][INFO][118] ***************************************************
+2021-04-15 16:47:22,016 [1][INFO][38] ***************************************************
+2021-04-15 16:47:22,129 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 16:47:22,130 [1][INFO][40] Server Port: 4100
+2021-04-15 16:47:22,131 [1][INFO][41] Server AE Title: VeriSee
+2021-04-15 16:47:22,135 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 16:47:22,137 [1][INFO][43] Test count: 3
+2021-04-15 16:47:22,137 [1][INFO][44] Test interval: random
+2021-04-15 16:47:22,138 [1][INFO][45] Test thread: 2
+2021-04-15 16:47:22,138 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 16:47:22,139 [1][INFO][47] ***************************************************
+2021-04-15 16:47:22,155 [1][INFO][89] Test [1]
+2021-04-15 16:47:28,001 [13][INFO][94] C-Store Response Received, Status: Success
+2021-04-15 16:47:28,213 [11][INFO][109] Time interval [18] seconds
+2021-04-15 16:47:46,730 [11][INFO][89] Test [2]
+2021-04-15 16:47:48,586 [6][INFO][94] C-Store Response Received, Status: Success
+2021-04-15 16:47:48,690 [18][INFO][109] Time interval [28] seconds
+2021-04-15 16:48:17,355 [18][INFO][89] Test [3]
+2021-04-15 16:48:19,654 [18][INFO][94] C-Store Response Received, Status: Success
+2021-04-15 16:48:19,867 [17][INFO][131] ***************************************************
+2021-04-15 17:21:41,691 [1][INFO][38] ***************************************************
+2021-04-15 17:21:41,772 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 17:21:41,773 [1][INFO][40] Server Port: 4100
+2021-04-15 17:21:41,773 [1][INFO][41] Server AE Title: VeriSee
+2021-04-15 17:21:41,773 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 17:21:41,773 [1][INFO][43] Test count: 3
+2021-04-15 17:21:41,774 [1][INFO][44] Test interval: random
+2021-04-15 17:21:41,774 [1][INFO][45] Test thread: 2
+2021-04-15 17:21:41,774 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 17:21:41,774 [1][INFO][47] ***************************************************
+2021-04-15 17:21:41,778 [1][INFO][89] Test [1]
+2021-04-15 17:21:44,050 [7][INFO][102] Association was accepted by:127.0.0.1
+2021-04-15 17:21:45,940 [14][INFO][94] C-Store Response Received, Status: Success
+2021-04-15 17:21:46,124 [3][INFO][107] Association was released. BYE BYE!
+2021-04-15 17:21:46,138 [3][INFO][122] Time interval 18 seconds
+2021-04-15 17:22:04,281 [3][INFO][89] Test [2]
+2021-04-15 17:22:04,479 [9][INFO][102] Association was accepted by:127.0.0.1
+2021-04-15 17:22:04,483 [9][INFO][102] Association was accepted by:127.0.0.1
+2021-04-15 17:22:06,779 [7][INFO][94] C-Store Response Received, Status: Success
+2021-04-15 17:22:06,902 [16][INFO][107] Association was released. BYE BYE!
+2021-04-15 17:22:06,903 [16][INFO][107] Association was released. BYE BYE!
+2021-04-15 17:22:06,904 [16][INFO][122] Time interval 5 seconds
+2021-04-15 17:22:12,578 [16][INFO][89] Test [3]
+2021-04-15 17:22:12,673 [9][INFO][102] Association was accepted by:127.0.0.1
+2021-04-15 17:22:12,684 [9][INFO][102] Association was accepted by:127.0.0.1
+2021-04-15 17:22:12,685 [9][INFO][102] Association was accepted by:127.0.0.1
+2021-04-15 17:22:14,381 [7][INFO][94] C-Store Response Received, Status: Success
+2021-04-15 17:22:14,520 [21][INFO][107] Association was released. BYE BYE!
+2021-04-15 17:22:14,520 [21][INFO][107] Association was released. BYE BYE!
+2021-04-15 17:22:14,521 [21][INFO][107] Association was released. BYE BYE!
+2021-04-15 17:22:14,521 [21][INFO][144] ***************************************************
+2021-04-15 17:23:40,698 [1][INFO][38] ***************************************************
+2021-04-15 17:23:40,784 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 17:23:40,784 [1][INFO][40] Server Port: 4100
+2021-04-15 17:23:40,784 [1][INFO][41] Server AE Title: VeriSee
+2021-04-15 17:23:40,785 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 17:23:40,785 [1][INFO][43] Test count: 3
+2021-04-15 17:23:40,786 [1][INFO][44] Test interval: random
+2021-04-15 17:23:40,787 [1][INFO][45] Test thread: 2
+2021-04-15 17:23:40,787 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 17:23:40,787 [1][INFO][47] ***************************************************
+2021-04-15 17:23:40,799 [1][INFO][103] Test [1]
+2021-04-15 17:23:43,052 [11][INFO][62] Association was accepted by:127.0.0.1
+2021-04-15 17:23:45,095 [14][INFO][108] C-Store Response Received, Status: Success
+2021-04-15 17:23:45,252 [7][INFO][67] Association was released. BYE BYE!
+2021-04-15 17:23:45,274 [3][INFO][123] Time interval 19 seconds
+2021-04-15 17:24:05,109 [3][INFO][103] Test [2]
+2021-04-15 17:24:05,290 [7][INFO][62] Association was accepted by:127.0.0.1
+2021-04-15 17:24:07,003 [17][INFO][108] C-Store Response Received, Status: Success
+2021-04-15 17:24:07,141 [18][INFO][67] Association was released. BYE BYE!
+2021-04-15 17:24:07,142 [18][INFO][123] Time interval 6 seconds
+2021-04-15 17:24:13,526 [18][INFO][103] Test [3]
+2021-04-15 17:24:13,623 [15][INFO][62] Association was accepted by:127.0.0.1
+2021-04-15 17:24:15,347 [11][INFO][108] C-Store Response Received, Status: Success
+2021-04-15 17:24:15,471 [17][INFO][67] Association was released. BYE BYE!
+2021-04-15 17:24:15,472 [17][INFO][145] ***************************************************
+2021-04-15 17:24:54,390 [1][INFO][38] ***************************************************
+2021-04-15 17:24:54,519 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 17:24:54,522 [1][INFO][40] Server Port: 4100
+2021-04-15 17:24:54,524 [1][INFO][41] Server AE Title: VeriSee1
+2021-04-15 17:24:54,527 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 17:24:54,531 [1][INFO][43] Test count: 3
+2021-04-15 17:24:54,532 [1][INFO][44] Test interval: random
+2021-04-15 17:24:54,532 [1][INFO][45] Test thread: 2
+2021-04-15 17:24:54,532 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 17:24:54,533 [1][INFO][47] ***************************************************
+2021-04-15 17:24:54,537 [1][INFO][103] Test [1]
+2021-04-15 17:24:57,012 [13][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:24:57,254 [13][ERROR][129] ----------------------------------------------------
+2021-04-15 17:24:57,258 [13][ERROR][130] Error storing file. Exception Details:
+2021-04-15 17:24:57,267 [13][ERROR][131] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<SendAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 58
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 111
+2021-04-15 17:24:57,275 [13][ERROR][132] ----------------------------------------------------
+2021-04-15 17:24:57,277 [13][INFO][103] Test [2]
+2021-04-15 17:24:57,434 [6][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:24:57,534 [6][ERROR][129] ----------------------------------------------------
+2021-04-15 17:24:57,535 [6][ERROR][130] Error storing file. Exception Details:
+2021-04-15 17:24:57,538 [6][ERROR][131] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<GetNextStateAsync>d__3.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 32
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<SendAsync>d__10.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 149
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 111
+2021-04-15 17:24:57,546 [6][ERROR][132] ----------------------------------------------------
+2021-04-15 17:24:57,548 [6][INFO][103] Test [3]
+2021-04-15 17:24:57,643 [12][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:24:57,800 [12][ERROR][129] ----------------------------------------------------
+2021-04-15 17:24:57,801 [12][ERROR][130] Error storing file. Exception Details:
+2021-04-15 17:24:57,804 [12][ERROR][131] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<GetNextStateAsync>d__3.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 32
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<SendAsync>d__10.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 149
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 111
+2021-04-15 17:24:57,822 [12][ERROR][132] ----------------------------------------------------
+2021-04-15 17:24:57,825 [12][INFO][145] ***************************************************
+2021-04-15 17:36:01,851 [1][INFO][38] ***************************************************
+2021-04-15 17:36:01,963 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 17:36:01,965 [1][INFO][40] Server Port: 4100
+2021-04-15 17:36:01,966 [1][INFO][41] Server AE Title: VeriSee1
+2021-04-15 17:36:01,967 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 17:36:01,969 [1][INFO][43] Test count: 3
+2021-04-15 17:36:01,969 [1][INFO][44] Test interval: random
+2021-04-15 17:36:01,970 [1][INFO][45] Test thread: 2
+2021-04-15 17:36:01,972 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 17:36:01,973 [1][INFO][47] ***************************************************
+2021-04-15 17:36:01,978 [1][INFO][108] Test [1]
+2021-04-15 17:36:05,079 [8][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:36:05,293 [8][ERROR][134] ----------------------------------------------------
+2021-04-15 17:36:05,294 [8][ERROR][135] Error storing file. Exception Details:
+2021-04-15 17:36:05,302 [8][ERROR][136] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<SendAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 58
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 116
+2021-04-15 17:36:05,307 [8][ERROR][137] ----------------------------------------------------
+2021-04-15 17:36:05,309 [8][INFO][108] Test [2]
+2021-04-15 17:36:05,407 [6][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:36:05,510 [6][ERROR][134] ----------------------------------------------------
+2021-04-15 17:36:05,511 [6][ERROR][135] Error storing file. Exception Details:
+2021-04-15 17:36:05,513 [6][ERROR][136] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<GetNextStateAsync>d__3.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 32
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<SendAsync>d__10.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 149
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 116
+2021-04-15 17:36:05,522 [6][ERROR][137] ----------------------------------------------------
+2021-04-15 17:36:05,525 [6][INFO][108] Test [3]
+2021-04-15 17:36:05,640 [16][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:36:05,737 [16][ERROR][134] ----------------------------------------------------
+2021-04-15 17:36:05,738 [16][ERROR][135] Error storing file. Exception Details:
+2021-04-15 17:36:05,740 [16][ERROR][136] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<GetNextStateAsync>d__3.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 32
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<SendAsync>d__10.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 149
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 116
+2021-04-15 17:36:05,756 [16][ERROR][137] ----------------------------------------------------
+2021-04-15 17:36:05,757 [16][INFO][150] ***************************************************
+2021-04-15 17:40:24,472 [1][INFO][38] ***************************************************
+2021-04-15 17:40:24,567 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 17:40:24,568 [1][INFO][40] Server Port: 4100
+2021-04-15 17:40:24,568 [1][INFO][41] Server AE Title: VeriSee1
+2021-04-15 17:40:24,568 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 17:40:24,568 [1][INFO][43] Test count: 3
+2021-04-15 17:40:24,569 [1][INFO][44] Test interval: random
+2021-04-15 17:40:24,569 [1][INFO][45] Test thread: 2
+2021-04-15 17:40:24,569 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 17:40:24,569 [1][INFO][47] ***************************************************
+2021-04-15 17:40:24,574 [1][INFO][108] Test [1]
+2021-04-15 17:40:27,221 [6][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:40:27,403 [6][WARN][134] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<SendAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 58
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 116
+2021-04-15 17:40:27,413 [6][INFO][108] Test [2]
+2021-04-15 17:40:27,586 [16][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:40:27,696 [16][WARN][134] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<GetNextStateAsync>d__3.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 32
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<SendAsync>d__10.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 149
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 116
+2021-04-15 17:40:27,706 [16][INFO][108] Test [3]
+2021-04-15 17:40:27,897 [16][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:40:28,157 [16][WARN][134] Dicom.Network.DicomAssociationRejectedException: Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<GetNextStateAsync>d__8.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 113
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   於 Dicom.Network.Client.States.DicomClientConnectState.<GetNextStateAsync>d__5.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientConnectState.cs: 行 83
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientIdleState.<GetNextStateAsync>d__3.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientIdleState.cs: 行 32
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<Transition>d__98.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 239
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.States.DicomClientCompletedState.<SendAsync>d__10.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\States\DicomClientCompletedState.cs: 行 149
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 Dicom.Network.Client.DicomClient.<SendAsync>d__117.MoveNext() 於 C:\dev\GitHub\fo-dicom\fo-dicom\DICOM\Network\Client\DicomClient.cs: 行 333
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 GatewayStressTest.Program.<Main>d__13.MoveNext() 於 C:\Users\1109018\GatewayStressTest\GatewayStressTest\Program.cs: 行 116
+2021-04-15 17:40:28,171 [16][INFO][154] ***************************************************
+2021-04-15 17:41:46,294 [1][INFO][38] ***************************************************
+2021-04-15 17:41:46,366 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 17:41:46,367 [1][INFO][40] Server Port: 4100
+2021-04-15 17:41:46,367 [1][INFO][41] Server AE Title: VeriSee1
+2021-04-15 17:41:46,368 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 17:41:46,369 [1][INFO][43] Test count: 3
+2021-04-15 17:41:46,369 [1][INFO][44] Test interval: random
+2021-04-15 17:41:46,370 [1][INFO][45] Test thread: 2
+2021-04-15 17:41:46,370 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 17:41:46,371 [1][INFO][47] ***************************************************
+2021-04-15 17:41:46,375 [1][INFO][108] Test [1]
+2021-04-15 17:41:48,632 [6][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:41:48,805 [6][WARN][134] ----------------------------------------------------
+2021-04-15 17:41:48,806 [6][WARN][135] Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+2021-04-15 17:41:48,807 [6][WARN][136] ----------------------------------------------------
+2021-04-15 17:41:48,815 [6][INFO][108] Test [2]
+2021-04-15 17:41:48,937 [7][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:41:49,044 [7][WARN][134] ----------------------------------------------------
+2021-04-15 17:41:49,045 [7][WARN][135] Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+2021-04-15 17:41:49,046 [7][WARN][136] ----------------------------------------------------
+2021-04-15 17:41:49,047 [7][INFO][108] Test [3]
+2021-04-15 17:41:49,141 [11][WARN][57] Association was rejected. Rejected Reason:CalledAENotRecognized
+2021-04-15 17:41:49,246 [11][WARN][134] ----------------------------------------------------
+2021-04-15 17:41:49,247 [11][WARN][135] Association rejected [result: Permanent; source: ServiceUser; reason: CalledAENotRecognized]
+2021-04-15 17:41:49,248 [11][WARN][136] ----------------------------------------------------
+2021-04-15 17:41:49,249 [11][INFO][156] ***************************************************
+2021-04-15 17:45:17,951 [1][INFO][38] ***************************************************
+2021-04-15 17:45:18,045 [1][INFO][39] Server Host Address: 127.0.0.1
+2021-04-15 17:45:18,045 [1][INFO][40] Server Port: 4100
+2021-04-15 17:45:18,045 [1][INFO][41] Server AE Title: VeriSee
+2021-04-15 17:45:18,046 [1][INFO][42] Client AE Title: StressTest
+2021-04-15 17:45:18,046 [1][INFO][43] Test count: 3
+2021-04-15 17:45:18,046 [1][INFO][44] Test interval: random
+2021-04-15 17:45:18,046 [1][INFO][45] Test thread: 2
+2021-04-15 17:45:18,046 [1][INFO][46] Test dicom: ./TestDicom/test.dcm
+2021-04-15 17:45:18,047 [1][INFO][47] ***************************************************
+2021-04-15 17:45:18,050 [1][INFO][108] Test [1]
+2021-04-15 17:45:20,541 [9][INFO][62] Association was accepted by:127.0.0.1
+2021-04-15 17:45:24,275 [14][INFO][113] C-Store Response Received, Status: Success
+2021-04-15 17:45:24,519 [17][INFO][67] Association was released. BYE BYE!
+2021-04-15 17:45:24,550 [17][INFO][128] Time interval 13 seconds
+2021-04-15 17:45:38,375 [17][INFO][108] Test [2]
+2021-04-15 17:45:38,466 [17][INFO][62] Association was accepted by:127.0.0.1
+2021-04-15 17:45:40,187 [7][INFO][113] C-Store Response Received, Status: Success
+2021-04-15 17:45:40,341 [12][INFO][67] Association was released. BYE BYE!
+2021-04-15 17:45:40,342 [12][INFO][128] Time interval 9 seconds
+2021-04-15 17:45:49,410 [12][INFO][108] Test [3]
+2021-04-15 17:45:49,535 [13][INFO][62] Association was accepted by:127.0.0.1
+2021-04-15 17:45:50,885 [9][INFO][113] C-Store Response Received, Status: Success
+2021-04-15 17:45:50,984 [11][INFO][67] Association was released. BYE BYE!
+2021-04-15 17:45:50,989 [11][INFO][156] ***************************************************

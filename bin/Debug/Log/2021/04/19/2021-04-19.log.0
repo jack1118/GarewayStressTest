@@ -1,0 +1,477 @@
+2021-04-19 14:07:42,149 [1][INFO][39] ***************************************************
+2021-04-19 14:07:42,322 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:07:42,322 [1][INFO][41] Server Port: 4100
+2021-04-19 14:07:42,325 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:07:42,325 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:07:42,326 [1][INFO][44] Test count: 10000
+2021-04-19 14:07:42,326 [1][INFO][45] Test interval: random
+2021-04-19 14:07:42,327 [1][INFO][46] Test thread: 2
+2021-04-19 14:07:42,327 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:07:42,328 [1][INFO][48] ***************************************************
+2021-04-19 14:07:51,780 [SenderThread #0][INFO][123] Test [1]
+2021-04-19 14:07:51,781 [SenderThread #1][INFO][123] Test [1]
+2021-04-19 14:08:00,838 [12][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:08:00,838 [8][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:08:07,023 [12][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:08:07,036 [12][INFO][157] Time interval 8 seconds
+2021-04-19 14:08:07,250 [15][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:08:07,254 [15][INFO][157] Time interval 18 seconds
+2021-04-19 14:08:15,266 [13][INFO][123] Test [2]
+2021-04-19 14:08:15,490 [11][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:08:19,717 [7][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:08:19,719 [7][INFO][157] Time interval 6 seconds
+2021-04-19 14:08:26,034 [13][INFO][123] Test [3]
+2021-04-19 14:08:26,203 [9][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:08:26,326 [11][INFO][123] Test [2]
+2021-04-19 14:08:26,664 [11][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:08:31,022 [12][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:08:31,025 [12][INFO][157] Time interval 27 seconds
+2021-04-19 14:08:31,206 [15][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:08:31,210 [15][INFO][157] Time interval 26 seconds
+2021-04-19 14:08:58,400 [19][INFO][123] Test [4]
+2021-04-19 14:08:58,500 [19][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:08:58,793 [22][INFO][123] Test [3]
+2021-04-19 14:08:58,934 [24][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:09:02,597 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:09:02,599 [14][INFO][157] Time interval 26 seconds
+2021-04-19 14:09:02,822 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:09:02,824 [23][INFO][157] Time interval 14 seconds
+2021-04-19 14:09:17,523 [12][INFO][123] Test [5]
+2021-04-19 14:09:17,660 [5][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:09:19,567 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:09:19,569 [23][INFO][157] Time interval 29 seconds
+2021-04-19 14:09:29,403 [22][INFO][123] Test [4]
+2021-04-19 14:09:29,553 [13][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:09:31,709 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:09:31,712 [14][INFO][157] Time interval 27 seconds
+2021-04-19 14:09:49,406 [12][INFO][123] Test [6]
+2021-04-19 14:09:49,550 [19][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:09:51,819 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:09:51,822 [23][INFO][157] Time interval 6 seconds
+2021-04-19 14:09:58,625 [12][INFO][123] Test [7]
+2021-04-19 14:09:58,793 [5][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:10:00,556 [12][INFO][123] Test [5]
+2021-04-19 14:10:00,785 [7][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:10:02,071 [7][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:10:02,125 [7][INFO][157] Time interval 10 seconds
+2021-04-19 14:10:05,988 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:10:05,991 [14][INFO][157] Time interval 15 seconds
+2021-04-19 14:10:14,638 [13][INFO][123] Test [8]
+2021-04-19 14:10:14,797 [5][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:10:16,945 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:10:16,947 [23][INFO][157] Time interval 2 seconds
+2021-04-19 14:10:19,393 [8][INFO][123] Test [9]
+2021-04-19 14:10:19,692 [8][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:10:24,018 [12][INFO][123] Test [6]
+2021-04-19 14:10:24,319 [11][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:10:24,379 [12][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:10:24,441 [12][INFO][157] Time interval 20 seconds
+2021-04-19 14:10:30,853 [5][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:10:30,854 [5][INFO][157] Time interval 14 seconds
+2021-04-19 14:10:45,479 [24][INFO][123] Test [7]
+2021-04-19 14:10:45,481 [15][INFO][123] Test [10]
+2021-04-19 14:10:45,784 [24][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:10:45,811 [19][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:10:49,709 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:10:49,716 [14][INFO][157] Time interval 5 seconds
+2021-04-19 14:10:49,853 [27][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:10:49,855 [27][INFO][157] Time interval 13 seconds
+2021-04-19 14:10:55,330 [6][INFO][123] Test [11]
+2021-04-19 14:10:55,588 [9][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:11:01,553 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:11:01,554 [23][INFO][157] Time interval 23 seconds
+2021-04-19 14:11:06,011 [12][INFO][123] Test [8]
+2021-04-19 14:11:06,256 [9][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:11:09,893 [27][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:11:09,894 [27][INFO][157] Time interval 1 seconds
+2021-04-19 14:11:13,145 [12][INFO][123] Test [9]
+2021-04-19 14:11:13,369 [6][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:11:18,667 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:11:18,689 [14][INFO][157] Time interval 23 seconds
+2021-04-19 14:11:27,877 [12][INFO][123] Test [12]
+2021-04-19 14:11:28,288 [6][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:11:31,522 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:11:31,530 [23][INFO][157] Time interval 8 seconds
+2021-04-19 14:11:40,381 [12][INFO][123] Test [13]
+2021-04-19 14:11:40,563 [24][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:11:43,116 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:11:43,117 [23][INFO][157] Time interval 29 seconds
+2021-04-19 14:11:43,377 [27][INFO][123] Test [10]
+2021-04-19 14:11:43,580 [9][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:11:49,761 [5][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:11:49,762 [5][INFO][157] Time interval 11 seconds
+2021-04-19 14:12:01,353 [7][INFO][123] Test [11]
+2021-04-19 14:12:01,493 [19][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:12:03,907 [27][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:12:03,908 [27][INFO][157] Time interval 7 seconds
+2021-04-19 14:12:11,221 [12][INFO][123] Test [12]
+2021-04-19 14:12:11,381 [28][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:12:14,800 [12][INFO][123] Test [14]
+2021-04-19 14:12:14,915 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:12:14,934 [14][INFO][157] Time interval 6 seconds
+2021-04-19 14:12:14,993 [28][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:12:21,484 [5][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:12:21,484 [5][INFO][157] Time interval 17 seconds
+2021-04-19 14:12:24,970 [12][INFO][123] Test [13]
+2021-04-19 14:12:25,268 [28][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:12:29,182 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:12:29,188 [14][INFO][157] Time interval 26 seconds
+2021-04-19 14:12:41,039 [12][INFO][123] Test [15]
+2021-04-19 14:12:41,160 [19][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:12:43,329 [23][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:12:43,331 [23][INFO][157] Time interval 22 seconds
+2021-04-19 14:12:56,042 [13][INFO][123] Test [14]
+2021-04-19 14:12:56,425 [22][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:13:01,704 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:13:01,706 [14][INFO][157] Time interval 11 seconds
+2021-04-19 14:13:07,938 [12][INFO][123] Test [16]
+2021-04-19 14:13:08,119 [13][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:13:11,123 [24][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:13:11,129 [24][INFO][157] Time interval 14 seconds
+2021-04-19 14:13:14,788 [12][INFO][123] Test [15]
+2021-04-19 14:13:14,990 [6][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:13:18,441 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:13:18,442 [14][INFO][157] Time interval 16 seconds
+2021-04-19 14:14:32,370 [1][INFO][39] ***************************************************
+2021-04-19 14:14:32,488 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:14:32,488 [1][INFO][41] Server Port: 4100
+2021-04-19 14:14:32,488 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:14:32,489 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:14:32,489 [1][INFO][44] Test count: 10000
+2021-04-19 14:14:32,489 [1][INFO][45] Test interval: random
+2021-04-19 14:14:32,491 [1][INFO][46] Test thread: 2
+2021-04-19 14:14:32,491 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:14:32,493 [1][INFO][48] ***************************************************
+2021-04-19 14:14:32,709 [SenderThread #0][INFO][123] Test 2 - [1]
+2021-04-19 14:14:32,709 [SenderThread #1][INFO][123] Test 2 - [1]
+2021-04-19 14:14:35,633 [13][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:14:35,639 [9][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:14:41,103 [10][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:14:41,106 [10][INFO][157] Time interval 20 seconds
+2021-04-19 14:14:41,308 [6][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:14:41,309 [6][INFO][157] Time interval 11 seconds
+2021-04-19 14:14:52,717 [9][INFO][123] Test 2 - [2]
+2021-04-19 14:14:52,842 [8][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:14:56,291 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:14:56,312 [14][INFO][157] Time interval 7 seconds
+2021-04-19 14:15:03,071 [12][INFO][123] Test 2 - [2]
+2021-04-19 14:15:03,308 [19][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:15:06,068 [8][INFO][123] Test 2 - [3]
+2021-04-19 14:15:06,409 [27][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:15:07,992 [10][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:15:08,002 [10][INFO][157] Time interval 13 seconds
+2021-04-19 14:15:12,449 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:15:12,457 [14][INFO][157] Time interval 17 seconds
+2021-04-19 14:15:22,810 [15][INFO][123] Test 2 - [3]
+2021-04-19 14:15:22,936 [8][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:15:26,246 [13][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:15:26,249 [13][INFO][157] Time interval 2 seconds
+2021-04-19 14:15:28,621 [12][INFO][123] Test 2 - [4]
+2021-04-19 14:15:28,835 [8][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:15:32,343 [9][INFO][123] Test 2 - [4]
+2021-04-19 14:15:32,718 [9][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:15:35,314 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:15:35,324 [14][INFO][157] Time interval 14 seconds
+2021-04-19 14:15:39,392 [10][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:15:39,397 [10][INFO][157] Time interval 28 seconds
+2021-04-19 14:15:50,329 [12][INFO][123] Test 2 - [5]
+2021-04-19 14:15:50,439 [6][INFO][77] Association was accepted by:127.0.0.1
+2021-04-19 14:15:52,558 [14][INFO][130] C-Store Response Received, Status: Success
+2021-04-19 14:15:52,565 [14][INFO][157] Time interval 14 seconds
+2021-04-19 14:17:36,554 [1][INFO][39] ***************************************************
+2021-04-19 14:17:36,655 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:17:36,657 [1][INFO][41] Server Port: 4100
+2021-04-19 14:17:36,659 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:17:36,661 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:17:36,661 [1][INFO][44] Test count: 10000
+2021-04-19 14:17:36,662 [1][INFO][45] Test interval: random
+2021-04-19 14:17:36,663 [1][INFO][46] Test thread: 2
+2021-04-19 14:17:36,664 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:17:36,665 [1][INFO][48] ***************************************************
+2021-04-19 14:17:36,998 [SenderThread #1][INFO][125] Test 1 - [1]
+2021-04-19 14:17:36,998 [SenderThread #0][INFO][125] Test 0 - [1]
+2021-04-19 14:17:40,360 [6][INFO][79] Association was accepted by:127.0.0.1
+2021-04-19 14:17:40,360 [9][INFO][79] Association was accepted by:127.0.0.1
+2021-04-19 14:17:46,313 [13][INFO][132] C-Store Response Received, Status: Success
+2021-04-19 14:17:46,365 [13][INFO][159] Time interval 29 seconds
+2021-04-19 14:17:46,432 [6][INFO][132] C-Store Response Received, Status: Success
+2021-04-19 14:17:46,432 [6][INFO][159] Time interval 28 seconds
+2021-04-19 14:18:15,039 [5][INFO][125] Test 1 - [2]
+2021-04-19 14:18:15,215 [21][INFO][79] Association was accepted by:127.0.0.1
+2021-04-19 14:18:16,278 [25][INFO][125] Test 0 - [2]
+2021-04-19 14:18:16,423 [5][INFO][79] Association was accepted by:127.0.0.1
+2021-04-19 14:18:18,559 [16][INFO][132] C-Store Response Received, Status: Success
+2021-04-19 14:18:18,628 [16][INFO][159] Time interval 27 seconds
+2021-04-19 14:18:22,971 [22][INFO][132] C-Store Response Received, Status: Success
+2021-04-19 14:18:22,973 [22][INFO][159] Time interval 8 seconds
+2021-04-19 14:18:31,850 [13][INFO][125] Test 0 - [3]
+2021-04-19 14:18:31,970 [19][INFO][79] Association was accepted by:127.0.0.1
+2021-04-19 14:18:34,141 [22][INFO][132] C-Store Response Received, Status: Success
+2021-04-19 14:18:34,143 [22][INFO][159] Time interval 18 seconds
+2021-04-19 14:41:53,063 [1][INFO][39] ***************************************************
+2021-04-19 14:41:53,151 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:41:53,151 [1][INFO][41] Server Port: 4100
+2021-04-19 14:41:53,152 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:41:53,152 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:41:53,152 [1][INFO][44] Test count: 10000
+2021-04-19 14:41:53,152 [1][INFO][45] Test interval: random
+2021-04-19 14:41:53,152 [1][INFO][46] Test thread: 2
+2021-04-19 14:41:53,152 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:41:53,153 [1][INFO][48] ***************************************************
+2021-04-19 14:41:53,422 [SenderThread #0][INFO][128] Test 01-[1]
+2021-04-19 14:41:53,424 [SenderThread #1][INFO][128] Test 11-[1]
+2021-04-19 14:42:02,147 [12][INFO][135] 2-[1] C-Store Response Received, Status: Success
+2021-04-19 14:42:02,214 [15][INFO][135] 1-[1] C-Store Response Received, Status: Success
+2021-04-19 14:42:02,282 [12][INFO][162] 2-[2] Time interval 5 seconds
+2021-04-19 14:42:02,282 [15][INFO][162] 1-[2] Time interval 16 seconds
+2021-04-19 14:42:08,328 [13][INFO][128] Test 11-[2]
+2021-04-19 14:42:14,353 [14][INFO][135] 2-[2] C-Store Response Received, Status: Success
+2021-04-19 14:42:14,356 [14][INFO][162] 2-[3] Time interval 9 seconds
+2021-04-19 14:42:22,273 [8][INFO][128] Test 01-[2]
+2021-04-19 14:42:24,840 [12][INFO][135] 1-[2] C-Store Response Received, Status: Success
+2021-04-19 14:42:24,844 [12][INFO][162] 1-[3] Time interval 22 seconds
+2021-04-19 14:42:25,150 [24][INFO][128] Test 11-[3]
+2021-04-19 14:42:31,266 [15][INFO][135] 2-[3] C-Store Response Received, Status: Success
+2021-04-19 14:42:31,268 [15][INFO][162] 2-[4] Time interval 1 seconds
+2021-04-19 14:42:32,957 [13][INFO][128] Test 11-[4]
+2021-04-19 14:42:38,811 [15][INFO][135] 2-[4] C-Store Response Received, Status: Success
+2021-04-19 14:42:38,813 [15][INFO][162] 2-[5] Time interval 23 seconds
+2021-04-19 14:42:50,098 [13][INFO][128] Test 01-[3]
+2021-04-19 14:42:52,315 [12][INFO][135] 1-[3] C-Store Response Received, Status: Success
+2021-04-19 14:42:52,318 [12][INFO][162] 1-[4] Time interval 23 seconds
+2021-04-19 14:43:02,608 [21][INFO][128] Test 11-[5]
+2021-04-19 14:43:05,041 [14][INFO][135] 2-[5] C-Store Response Received, Status: Success
+2021-04-19 14:43:05,049 [14][INFO][162] 2-[6] Time interval 4 seconds
+2021-04-19 14:43:09,740 [13][INFO][128] Test 11-[6]
+2021-04-19 14:43:12,073 [14][INFO][135] 2-[6] C-Store Response Received, Status: Success
+2021-04-19 14:43:12,076 [14][INFO][162] 2-[7] Time interval 24 seconds
+2021-04-19 14:43:16,445 [13][INFO][128] Test 01-[4]
+2021-04-19 14:43:18,684 [12][INFO][135] 1-[4] C-Store Response Received, Status: Success
+2021-04-19 14:43:18,686 [12][INFO][162] 1-[5] Time interval 26 seconds
+2021-04-19 14:43:36,317 [7][INFO][128] Test 11-[7]
+2021-04-19 14:46:44,901 [1][INFO][39] ***************************************************
+2021-04-19 14:46:45,018 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:46:45,018 [1][INFO][41] Server Port: 4100
+2021-04-19 14:46:45,018 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:46:45,018 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:46:45,020 [1][INFO][44] Test count: 10000
+2021-04-19 14:46:45,020 [1][INFO][45] Test interval: random
+2021-04-19 14:46:45,023 [1][INFO][46] Test thread: 2
+2021-04-19 14:46:45,024 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:46:45,024 [1][INFO][48] ***************************************************
+2021-04-19 14:46:45,024 [1][DEBUG][64] jack2
+2021-04-19 14:46:45,275 [SenderThread #1][INFO][129] Test 1-[1]
+2021-04-19 14:46:45,275 [SenderThread #0][INFO][129] Test 0-[1]
+2021-04-19 14:46:54,666 [13][INFO][136] 1-[1] C-Store Response Received, Status: Success
+2021-04-19 14:46:54,814 [13][INFO][163] 1-[2] Time interval 15 seconds
+2021-04-19 14:46:54,940 [14][INFO][136] 0-[1] C-Store Response Received, Status: Success
+2021-04-19 14:46:54,942 [14][INFO][163] 0-[2] Time interval 10 seconds
+2021-04-19 14:47:05,372 [12][INFO][129] Test 0-[2]
+2021-04-19 14:47:09,516 [15][INFO][136] 0-[2] C-Store Response Received, Status: Success
+2021-04-19 14:47:09,518 [15][INFO][163] 0-[3] Time interval 17 seconds
+2021-04-19 14:47:12,699 [18][INFO][129] Test 1-[2]
+2021-04-19 14:47:17,163 [13][INFO][136] 1-[2] C-Store Response Received, Status: Success
+2021-04-19 14:47:17,164 [13][INFO][163] 1-[3] Time interval 11 seconds
+2021-04-19 14:47:28,384 [12][INFO][129] Test 1-[3]
+2021-04-19 14:47:28,658 [6][INFO][129] Test 0-[3]
+2021-04-19 14:47:33,519 [13][INFO][136] 1-[3] C-Store Response Received, Status: Success
+2021-04-19 14:47:33,521 [13][INFO][163] 1-[4] Time interval 6 seconds
+2021-04-19 14:47:33,694 [14][INFO][136] 0-[3] C-Store Response Received, Status: Success
+2021-04-19 14:47:33,696 [14][INFO][163] 0-[4] Time interval 18 seconds
+2021-04-19 14:47:40,684 [22][INFO][129] Test 1-[4]
+2021-04-19 14:47:47,980 [6][INFO][136] 1-[4] C-Store Response Received, Status: Success
+2021-04-19 14:47:47,981 [6][INFO][163] 1-[5] Time interval 8 seconds
+2021-04-19 14:47:56,399 [23][INFO][129] Test 0-[4]
+2021-04-19 14:47:56,658 [15][INFO][129] Test 1-[5]
+2021-04-19 14:48:00,944 [13][INFO][136] 0-[4] C-Store Response Received, Status: Success
+2021-04-19 14:48:00,950 [13][INFO][163] 0-[5] Time interval 20 seconds
+2021-04-19 14:48:01,178 [14][INFO][136] 1-[5] C-Store Response Received, Status: Success
+2021-04-19 14:48:01,182 [14][INFO][163] 1-[6] Time interval 24 seconds
+2021-04-19 14:48:21,927 [26][INFO][129] Test 0-[5]
+2021-04-19 14:48:24,825 [15][INFO][136] 0-[5] C-Store Response Received, Status: Success
+2021-04-19 14:48:24,826 [15][INFO][163] 0-[6] Time interval 23 seconds
+2021-04-19 14:48:26,535 [13][INFO][129] Test 1-[6]
+2021-04-19 14:48:31,924 [6][INFO][136] 1-[6] C-Store Response Received, Status: Success
+2021-04-19 14:48:31,930 [6][INFO][163] 1-[7] Time interval 13 seconds
+2021-04-19 14:48:45,690 [23][INFO][129] Test 1-[7]
+2021-04-19 14:48:48,390 [14][INFO][136] 1-[7] C-Store Response Received, Status: Success
+2021-04-19 14:48:48,401 [14][INFO][163] 1-[8] Time interval 10 seconds
+2021-04-19 14:48:49,203 [5][INFO][129] Test 0-[6]
+2021-04-19 14:48:55,468 [15][INFO][136] 0-[6] C-Store Response Received, Status: Success
+2021-04-19 14:49:02,719 [18][INFO][129] Test 1-[8]
+2021-04-19 14:53:10,562 [1][INFO][39] ***************************************************
+2021-04-19 14:53:10,672 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:53:10,672 [1][INFO][41] Server Port: 4100
+2021-04-19 14:53:10,672 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:53:10,673 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:53:10,673 [1][INFO][44] Test count: 10000
+2021-04-19 14:53:10,673 [1][INFO][45] Test interval: random
+2021-04-19 14:53:10,679 [1][INFO][46] Test thread: 2
+2021-04-19 14:53:10,681 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:53:10,683 [1][INFO][48] ***************************************************
+2021-04-19 14:53:23,982 [SenderThread #0][INFO][128] Test 0-[1]
+2021-04-19 14:53:24,037 [SenderThread #1][INFO][128] Test 1-[1]
+2021-04-19 14:55:22,220 [1][INFO][39] ***************************************************
+2021-04-19 14:55:22,343 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:55:22,344 [1][INFO][41] Server Port: 4100
+2021-04-19 14:55:22,347 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:55:22,349 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:55:22,354 [1][INFO][44] Test count: 10000
+2021-04-19 14:55:22,355 [1][INFO][45] Test interval: random
+2021-04-19 14:55:22,359 [1][INFO][46] Test thread: 2
+2021-04-19 14:55:22,360 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:55:22,361 [1][INFO][48] ***************************************************
+2021-04-19 14:56:31,125 [1][INFO][39] ***************************************************
+2021-04-19 14:56:31,219 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:56:31,219 [1][INFO][41] Server Port: 4100
+2021-04-19 14:56:31,220 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:56:31,220 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:56:31,220 [1][INFO][44] Test count: 10000
+2021-04-19 14:56:31,220 [1][INFO][45] Test interval: random
+2021-04-19 14:56:31,220 [1][INFO][46] Test thread: 2
+2021-04-19 14:56:31,221 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:56:31,221 [1][INFO][48] ***************************************************
+2021-04-19 14:57:58,614 [SenderThread #0][INFO][128] Test 0-[1]
+2021-04-19 14:59:56,555 [1][INFO][39] ***************************************************
+2021-04-19 14:59:56,719 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 14:59:56,719 [1][INFO][41] Server Port: 4100
+2021-04-19 14:59:56,720 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 14:59:56,720 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 14:59:56,720 [1][INFO][44] Test count: 10000
+2021-04-19 14:59:56,720 [1][INFO][45] Test interval: random
+2021-04-19 14:59:56,720 [1][INFO][46] Test thread: 2
+2021-04-19 14:59:56,720 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 14:59:56,721 [1][INFO][48] ***************************************************
+2021-04-19 15:00:14,455 [SenderThread #1][INFO][128] Test 1-[1]
+2021-04-19 15:00:14,456 [SenderThread #0][INFO][128] Test 0-[1]
+2021-04-19 15:00:45,666 [15][INFO][135] 0-[1] C-Store Response Received, Status: Success
+2021-04-19 15:00:50,348 [8][INFO][135] 1-[1] C-Store Response Received, Status: Success
+2021-04-19 15:01:08,070 [15][INFO][162] 0-[2] Time interval 20 seconds
+2021-04-19 15:01:09,959 [8][INFO][162] 1-[2] Time interval 15 seconds
+2021-04-19 15:01:25,470 [8][INFO][128] Test 1-[2]
+2021-04-19 15:02:25,790 [1][INFO][39] ***************************************************
+2021-04-19 15:02:25,921 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 15:02:25,922 [1][INFO][41] Server Port: 4100
+2021-04-19 15:02:25,922 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 15:02:25,923 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 15:02:25,923 [1][INFO][44] Test count: 10000
+2021-04-19 15:02:25,923 [1][INFO][45] Test interval: random
+2021-04-19 15:02:25,923 [1][INFO][46] Test thread: 2
+2021-04-19 15:02:25,924 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 15:02:25,924 [1][INFO][48] ***************************************************
+2021-04-19 15:02:47,189 [SenderThread #1][INFO][128] Test 1-[1]
+2021-04-19 15:02:47,189 [SenderThread #0][INFO][128] Test 0-[1]
+2021-04-19 15:05:11,414 [13][INFO][0] 1-[1] C-Store Response Received, Status: Success
+2021-04-19 15:05:11,426 [21][INFO][0] 0-[1] C-Store Response Received, Status: Success
+2021-04-19 15:05:14,543 [13][INFO][0] 1-[1] Time interval 7 seconds
+2021-04-19 15:05:17,490 [21][INFO][0] 0-[1] Time interval 1 seconds
+2021-04-19 15:07:08,507 [1][INFO][39] ***************************************************
+2021-04-19 15:07:08,579 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 15:07:08,580 [1][INFO][41] Server Port: 4100
+2021-04-19 15:07:08,580 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 15:07:08,580 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 15:07:08,580 [1][INFO][44] Test count: 10000
+2021-04-19 15:07:08,580 [1][INFO][45] Test interval: random
+2021-04-19 15:07:08,581 [1][INFO][46] Test thread: 2
+2021-04-19 15:07:08,581 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 15:07:08,581 [1][INFO][48] ***************************************************
+2021-04-19 15:07:08,613 [SenderThread #1][INFO][128] Test 1-[1]
+2021-04-19 15:07:08,613 [SenderThread #0][INFO][128] Test 0-[1]
+2021-04-19 15:07:13,684 [12][INFO][135] 0-[1] C-Store Response Received, Status: Success
+2021-04-19 15:07:13,762 [12][INFO][161] 0-[1] Time interval 19 seconds
+2021-04-19 15:07:14,252 [13][INFO][135] 1-[1] C-Store Response Received, Status: Success
+2021-04-19 15:07:14,264 [13][INFO][161] 1-[1] Time interval 15 seconds
+2021-04-19 15:07:29,783 [6][INFO][128] Test 1-[2]
+2021-04-19 15:07:33,463 [10][INFO][128] Test 0-[2]
+2021-04-19 15:07:34,805 [13][INFO][135] 1-[2] C-Store Response Received, Status: Success
+2021-04-19 15:07:34,815 [13][INFO][161] 1-[2] Time interval 21 seconds
+2021-04-19 15:07:42,412 [17][INFO][135] 0-[2] C-Store Response Received, Status: Success
+2021-04-19 15:07:42,415 [17][INFO][161] 0-[2] Time interval 16 seconds
+2021-04-19 15:07:56,634 [13][INFO][128] Test 1-[3]
+2021-04-19 15:07:58,368 [20][INFO][135] 1-[3] C-Store Response Received, Status: Success
+2021-04-19 15:07:58,376 [20][INFO][161] 1-[3] Time interval 28 seconds
+2021-04-19 15:07:58,796 [8][INFO][128] Test 0-[3]
+2021-04-19 15:08:03,541 [17][INFO][135] 0-[3] C-Store Response Received, Status: Success
+2021-04-19 15:08:03,544 [17][INFO][161] 0-[3] Time interval 18 seconds
+2021-04-19 15:08:21,978 [19][INFO][128] Test 0-[4]
+2021-04-19 15:08:23,546 [14][INFO][135] 0-[4] C-Store Response Received, Status: Success
+2021-04-19 15:08:23,550 [14][INFO][161] 0-[4] Time interval 21 seconds
+2021-04-19 15:08:27,393 [16][INFO][128] Test 1-[4]
+2021-04-19 15:08:29,427 [13][INFO][135] 1-[4] C-Store Response Received, Status: Success
+2021-04-19 15:08:29,429 [13][INFO][161] 1-[4] Time interval 28 seconds
+2021-04-19 15:08:45,351 [19][INFO][128] Test 0-[5]
+2021-04-19 15:08:47,194 [6][INFO][135] 0-[5] C-Store Response Received, Status: Success
+2021-04-19 15:08:47,197 [6][INFO][161] 0-[5] Time interval 25 seconds
+2021-04-19 15:08:58,504 [19][INFO][128] Test 1-[5]
+2021-04-19 15:09:01,203 [13][INFO][135] 1-[5] C-Store Response Received, Status: Success
+2021-04-19 15:09:01,205 [13][INFO][161] 1-[5] Time interval 14 seconds
+2021-04-19 15:09:12,926 [11][INFO][128] Test 0-[6]
+2021-04-19 15:09:15,475 [9][INFO][128] Test 1-[6]
+2021-04-19 15:09:15,720 [13][INFO][135] 0-[6] C-Store Response Received, Status: Success
+2021-04-19 15:09:15,723 [13][INFO][161] 0-[6] Time interval 7 seconds
+2021-04-19 15:09:21,419 [17][INFO][135] 1-[6] C-Store Response Received, Status: Success
+2021-04-19 15:09:21,423 [17][INFO][161] 1-[6] Time interval 15 seconds
+2021-04-19 15:09:23,348 [13][INFO][128] Test 0-[7]
+2021-04-19 15:09:33,464 [13][INFO][135] 0-[7] C-Store Response Received, Status: Success
+2021-04-19 15:09:33,467 [13][INFO][161] 0-[7] Time interval 27 seconds
+2021-04-19 15:09:37,446 [18][INFO][128] Test 1-[7]
+2021-04-19 15:09:41,510 [17][INFO][135] 1-[7] C-Store Response Received, Status: Success
+2021-04-19 15:09:41,519 [17][INFO][161] 1-[7] Time interval 8 seconds
+2021-04-19 15:09:50,125 [10][INFO][128] Test 1-[8]
+2021-04-19 15:09:52,897 [6][INFO][135] 1-[8] C-Store Response Received, Status: Success
+2021-04-19 15:09:52,906 [6][INFO][161] 1-[8] Time interval 18 seconds
+2021-04-19 15:10:00,663 [13][INFO][128] Test 0-[8]
+2021-04-19 15:10:02,850 [13][INFO][135] 0-[8] C-Store Response Received, Status: Success
+2021-04-19 15:10:02,858 [13][INFO][161] 0-[8] Time interval 8 seconds
+2021-04-19 15:10:11,337 [9][INFO][128] Test 0-[9]
+2021-04-19 15:10:11,528 [18][INFO][128] Test 1-[9]
+2021-04-19 15:10:14,239 [13][INFO][135] 0-[9] C-Store Response Received, Status: Success
+2021-04-19 15:10:14,251 [13][INFO][161] 0-[9] Time interval 23 seconds
+2021-04-19 15:10:14,843 [6][INFO][135] 1-[9] C-Store Response Received, Status: Success
+2021-04-19 15:10:14,853 [6][INFO][161] 1-[9] Time interval 26 seconds
+2021-04-19 15:10:37,905 [16][INFO][128] Test 0-[10]
+2021-04-19 15:10:39,548 [13][INFO][135] 0-[10] C-Store Response Received, Status: Success
+2021-04-19 15:10:39,556 [13][INFO][161] 0-[10] Time interval 14 seconds
+2021-04-19 15:10:41,275 [16][INFO][128] Test 1-[10]
+2021-04-19 15:10:46,478 [22][INFO][135] 1-[10] C-Store Response Received, Status: Success
+2021-04-19 15:10:46,499 [22][INFO][161] 1-[10] Time interval 29 seconds
+2021-04-19 15:10:54,507 [7][INFO][128] Test 0-[11]
+2021-04-19 15:10:56,231 [13][INFO][135] 0-[11] C-Store Response Received, Status: Success
+2021-04-19 15:10:56,234 [13][INFO][161] 0-[11] Time interval 3 seconds
+2021-04-19 15:10:59,735 [23][INFO][128] Test 0-[12]
+2021-04-19 15:11:05,224 [21][INFO][135] 0-[12] C-Store Response Received, Status: Success
+2021-04-19 15:11:05,226 [21][INFO][161] 0-[12] Time interval 19 seconds
+2021-04-19 15:11:30,610 [1][INFO][39] ***************************************************
+2021-04-19 15:11:30,720 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 15:11:30,720 [1][INFO][41] Server Port: 4100
+2021-04-19 15:11:30,720 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 15:11:30,720 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 15:11:30,720 [1][INFO][44] Test count: 10000
+2021-04-19 15:11:30,721 [1][INFO][45] Test interval: random
+2021-04-19 15:11:30,721 [1][INFO][46] Test thread: 2
+2021-04-19 15:11:30,721 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 15:11:30,721 [1][INFO][48] ***************************************************
+2021-04-19 15:11:30,722 [1][INFO][52] To start test, enter "y"; Othersie, press any key to exit: 
+2021-04-19 15:11:48,906 [12][INFO][135] 0-[1] C-Store Response Received, Status: Success
+2021-04-19 15:11:48,998 [12][INFO][138] To test again, enter "y"; Othersie, press any key to exit: 
+2021-04-19 15:12:07,948 [12][INFO][135] 0-[1] C-Store Response Received, Status: Success
+2021-04-19 15:12:07,955 [12][INFO][138] To test again, enter "y"; Othersie, press any key to exit: 
+2021-04-19 15:13:33,953 [1][INFO][39] ***************************************************
+2021-04-19 15:13:34,061 [1][INFO][40] Server Host Address: 127.0.0.1
+2021-04-19 15:13:34,061 [1][INFO][41] Server Port: 4100
+2021-04-19 15:13:34,062 [1][INFO][42] Server AE Title: VeriSee
+2021-04-19 15:13:34,062 [1][INFO][43] Client AE Title: StressTest
+2021-04-19 15:13:34,062 [1][INFO][44] Test count: 10000
+2021-04-19 15:13:34,062 [1][INFO][45] Test interval: random
+2021-04-19 15:13:34,062 [1][INFO][46] Test thread: 2
+2021-04-19 15:13:34,062 [1][INFO][47] Test dicom: ./TestDicom/test.dcm
+2021-04-19 15:13:34,063 [1][INFO][48] ***************************************************
+2021-04-19 15:13:34,063 [1][INFO][52] To start test, enter "y"; Othersie, press any key to exit: 
+2021-04-19 15:14:38,635 [6][INFO][137] C-Store Response Received, Status: Success
+2021-04-19 15:14:38,659 [6][INFO][138] To test again, enter "y"; Othersie, press any key to exit: 
+2021-04-19 15:14:57,239 [20][INFO][137] C-Store Response Received, Status: Success
+2021-04-19 15:14:57,293 [20][INFO][138] To test again, enter "y"; Othersie, press any key to exit: 
+2021-04-19 15:15:09,075 [4][INFO][137] C-Store Response Received, Status: Success
+2021-04-19 15:15:09,076 [4][INFO][138] To test again, enter "y"; Othersie, press any key to exit: 
+2021-04-19 15:15:22,627 [4][INFO][137] C-Store Response Received, Status: Success
+2021-04-19 15:15:22,632 [4][INFO][138] To test again, enter "y"; Othersie, press any key to exit: 

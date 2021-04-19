@@ -1,0 +1,15 @@
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\TestDicom\test.dcm
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\log4net.config
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\GatewayStressTest.exe.config
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\GatewayStressTest.exe
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\GatewayStressTest.pdb
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\Dicom.Core.dll
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\log4net.dll
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\Dicom.Core.pdb
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\Dicom.Core.xml
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\bin\Debug\log4net.xml
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\obj\Debug\GatewayStressTest.csprojAssemblyReference.cache
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\obj\Debug\GatewayStressTest.csproj.CoreCompileInputs.cache
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\obj\Debug\GatewayStressTest.csproj.CopyComplete
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\obj\Debug\GatewayStressTest.exe
+C:\Users\1109018\GatewayStressTest\GatewayStressTest\obj\Debug\GatewayStressTest.pdb
